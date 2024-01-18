@@ -1,0 +1,200 @@
+[
+    {
+        "Emp_ID": 39592,
+        "Employee_Name": "John Doe",
+        "Department": "HR",
+        "Leave_Type": "Annual",
+        "Leaves_Available": 12,
+        "Leaves_Availed": 5,
+        "Leaves_Availed_Dates": ["2023-06-21", "2023-08-12", "2023-11-05", "2023-12-18", "2023-12-22"]
+    },
+    {
+        "Emp_ID": 38836,
+        "Employee_Name": "Jane Smith",
+        "Department": "Marketing",
+        "Leave_Type": "Sick",
+        "Leaves_Available": 10,
+        "Leaves_Availed": 3,
+        "Leaves_Availed_Dates": ["2023-02-05", "2023-04-17", "2023-10-29"]
+    },
+    {
+        "Emp_ID": 37815,
+        "Employee_Name": "Robert Johnson",
+        "Department": "Finance",
+        "Leave_Type": "Maternity",
+        "Leaves_Available": 50,
+        "Leaves_Availed": 20,
+        "Leaves_Availed_Dates": ["2023-01-20", "2023-01-21", "2023-01-22", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-29", "2023-01-30", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04", "2023-02-05", "2023-02-06", "2023-02-07", "2023-02-08", "2023-02-09"]
+    },
+    {
+        "Emp_ID": 38433,
+        "Employee_Name": "Linda Williams",
+        "Department": "HR",
+        "Leave_Type": "Annual",
+        "Leaves_Available": 12,
+        "Leaves_Availed": 4,
+        "Leaves_Availed_Dates": ["2023-03-15", "2023-05-23", "2023-09-08", "2023-11-21"]
+    },
+    {
+        "Emp_ID": 42962,
+        "Employee_Name": "Michael Brown",
+        "Department": "Marketing",
+        "Leave_Type": "Paternity",
+        "Leaves_Available": 15,
+        "Leaves_Availed": 5,
+        "Leaves_Availed_Dates": ["2023-04-03", "2023-06-18", "2023-07-26", "2023-08-10", "2023-10-31"]
+    },
+    {
+        "Emp_ID": 39976,
+        "Employee_Name": "Elizabeth Jones",
+        "Department": "Finance",
+        "Leave_Type": "Sick",
+        "Leaves_Available": 10,
+        "Leaves_Availed": 2,
+        "Leaves_Availed_Dates": ["2023-02-21", "2023-09-15"]
+    },
+    {
+        "Emp_ID": 42439,
+        "Employee_Name": "James Davis",
+        "Department": "HR",
+        "Leave_Type": "Annual",
+        "Leaves_Available": 12,
+        "Leaves_Availed": 6,
+        "Leaves_Availed_Dates": ["2023-03-02", "2023-05-10", "2023-07-04", "2023-08-29", "2023-10-17", "2023-12-05"]
+    },
+    {
+        "Emp_ID": 38076,
+        "Employee_Name": "Jennifer Miller",
+        "Department": "Marketing",
+        "Leave_Type": "Maternity",
+        "Leaves_Available": 50,
+        "Leaves_Availed": 25,
+        "Leaves_Availed_Dates": ["2023-01-21", "2023-01-22", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-29", "2023-01-30", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04", "2023-02-05", "2023-02-06", "2023-02-07", "2023-02-08", "2023-02"]
+    },
+    {
+        "Emp_ID": 34251,
+        "Employee_Name": "Patricia Wilson",
+        "Department": "Finance",
+        "Leave_Type": "Paternity",
+        "Leaves_Available": 15,
+        "Leaves_Availed": 7,
+        "Leaves_Availed_Dates": ["2023-01-25", "2023-02-18", "2023-03-21", "2023-05-09", "2023-06-27", "2023-08-15", "2023-10-30"]
+    },
+    {
+        "Emp_ID": 33479,
+        "Employee_Name": "William Moore",
+        "Department": "HR",
+        "Leave_Type": "Sick",
+        "Leaves_Available": 10,
+        "Leaves_Availed": 1,
+        "Leaves_Availed_Dates": ["22-09-2023"]
+    },
+    {
+        "Emp_ID": 39583,
+        "Employee_Name": "Emily Taylor",
+        "Department": "Marketing",
+        "Leave_Type": "Annual",
+        "Leaves_Available": 12,
+        "Leaves_Availed": 7,
+        "Leaves_Availed_Dates": ["2023-01-15", "2023-04-12", "2023-05-25", "2023-07-11", "2023-08-28", "2023-10-16", "2023-12-04"]
+    },
+    {
+        "Emp_ID": 36145,
+        "Employee_Name": "David Anderson",
+        "Department": "Finance",
+        "Leave_Type": "Sick",
+        "Leaves_Available": 10,
+        "Leaves_Availed": 4,
+        "Leaves_Availed_Dates": ["2023-01-07", "2023-03-29", "2023-06-15", "2023-11-28"]
+    },
+    {
+        "Emp_ID": 42299,
+        "Employee_Name": "Mary Thomas",
+        "Department": "HR",
+        "Leave_Type": "Maternity",
+        "Leaves_Available": 50,
+        "Leaves_Availed": 30,
+        "Leaves_Availed_Dates": ["2023-01-20", "2023-01-21", "2023-01-22", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-29", "2023-01-30", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04", "2023-02-05", "2023-02-06", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-10", "2023-02-11", "2023-02-12", "2023-02-13", "2023-02-14", "2023-02-15", "2023-02-16", "2023-02-17", "2023-02-18", "2023-02-19"]
+    },
+    {
+        "Emp_ID": 35888,
+        "Employee_Name": "Christopher Jackson",
+        "Department": "Marketing",
+        "Leave_Type": "Paternity",
+        "Leaves_Available": 15,
+        "Leaves_Availed": 8,
+        "Leaves_Availed_Dates": ["2023-01-19", "2023-02-26", "2023-04-05", "2023-05-17", "2023-06-30", "2023-08-18", "2023-10-04", "2023-11-22"]
+    },
+    {
+        "Emp_ID": 38613,
+        "Employee_Name": "Jessica White",
+        "Department": "Finance",
+        "Leave_Type": "Annual",
+        "Leaves_Available": 12,
+        "Leaves_Availed": 9,
+        "Leaves_Availed_Dates": ["2023-01-16", "2023-02-23", "2023-03-30", "2023-05-14", "2023-06-28", "2023-08-16", "2023-10-03", "2023-11-20", "2023-12-27"]
+    },
+    {
+        "Emp_ID": 36370,
+        "Employee_Name": "Richard Harris",
+        "Department": "HR",
+        "Leave_Type": "Sick",
+        "Leaves_Available": 10,
+        "Leaves_Availed": 3,
+        "Leaves_Availed_Dates": ["2023-01-12", "2023-05-05", "2023-09-20"]
+    },
+    {
+        "Emp_ID": 33338,
+        "Employee_Name": "Susan Martin",
+        "Department": "Marketing",
+        "Leave_Type": "Maternity",
+        "Leaves_Available": 50,
+        "Leaves_Availed": 35,
+        "Leaves_Availed_Dates": ["2023-01-20 to 2023-03-09", "2023-05-15 to 2023-05-29", "2023-08-01 to 2023-08-15"]
+    },
+    {
+        "Emp_ID": 35048,
+        "Employee_Name": "Joseph Thompson",
+        "Department": "Finance",
+        "Leave_Type": "Paternity",
+        "Leaves_Available": 15,
+        "Leaves_Availed": 10,
+        "Leaves_Availed_Dates": ["2023-04-01 to 2023-04-15", "2023-07-20 to 2023-07-31", "2023-11-10 to 2023-11-15"]
+    },
+    {
+        "Emp_ID": 37904,
+        "Employee_Name": "Margaret Garcia",
+        "Department": "HR",
+        "Leave_Type": "Annual",
+        "Leaves_Available": 12,
+        "Leaves_Availed": 8,
+        "Leaves_Availed_Dates": ["2023-02-15", "2023-04-29", "2023-06-13", "2023-07-27", "2023-09-05", "2023-10-20", "2023-11-29", "2023-12-26"]
+    },
+    {
+        "Emp_ID": 34556,
+        "Employee_Name": "Charles Martinez",
+        "Department": "Marketing",
+        "Leave_Type": "Sick",
+        "Leaves_Available": 10,
+        "Leaves_Availed": 2,
+        "Leaves_Availed_Dates": ["2023-03-21", "2023-12-12"]
+    },
+    {
+        "Emp_ID": 33479,
+        "Employee_Name": "William Moore",
+        "Department": "HR",
+        "Leave_Type": "Annual",
+        "Leaves_Available": 20,
+        "Leaves_Availed": 0,
+        "Leaves_Availed_Dates": []
+    },
+    {
+        "Emp_ID": 33479,
+        "Employee_Name": "William Moore",
+        "Department": "HR",
+        "Leave_Type": "Paternity",
+        "Leaves_Available": 60,
+        "Leaves_Availed": 0,
+        "Leaves_Availed_Dates": []
+    }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "Emp_ID": 39592,
+    "User_Name": "John Doe",
+    "Insurance_Name": "Northwind Health Plus",
+    "Insurance_Status": "Active",
+    "Insurance_End_Date": "21-08-2024",
+    "Sum_Insured (USD)": "5,00,000",
+    "Available_Balance (USD)": "4,50,000"
+  },
+  {
+    "Emp_ID": 38836,
+    "User_Name": "Jane Smith",
+    "Insurance_Name": "Northwind Standard",
+    "Insurance_Status": "Lapsed",
+    "Insurance_End_Date": "",
+    "Sum_Insured (USD)": "2,50,000",
+    "Available_Balance (USD)": "0"
+  },
+  {
+    "Emp_ID": 37815,
+    "User_Name": "Robert Johnson",
+    "Insurance_Name": "Northwind Health Plus",
+    "Insurance_Status": "Active",
+    "Insurance_End_Date": "15-11-2024",
+    "Sum_Insured (USD)": "7,50,000",
+    "Available_Balance (USD)": "6,75,000"
+  },
+  {
+    "Emp_ID": 38433,
+    "User_Name": "Linda Williams",
+    "Insurance_Name": "Northwind Standard",
+    "Insurance_Status": "Lapsed",
+    "Insurance_End_Date": "",
+    "Sum_Insured (USD)": "3,00,000",
+    "Available_Balance (USD)": "0"
+  },
+  {
+    "Emp_ID": 42962,
+    "User_Name": "Michael Brown",
+    "Insurance_Name": "Northwind Health Plus",
+    "Insurance_Status": "Lapsed",
+    "Insurance_End_Date": "",
+    "Sum_Insured (USD)": "4,00,000",
+    "Available_Balance (USD)": "0"
+  },
+  {
+    "Emp_ID": 39976,
+    "User_Name": "Elizabeth Jones",
+    "Insurance_Name": "Northwind Standard",
+    "Insurance_Status": "Active",
+    "Insurance_End_Date": "03-06-2024",
+    "Sum_Insured (USD)": "3,50,000",
+    "Available_Balance (USD)": "3,15,000"
+  },
+  {
+    "Emp_ID": 42439,
+    "User_Name": "James Davis",
+    "Insurance_Name": "Northwind Standard",
+    "Insurance_Status": "Active",
+    "Insurance_End_Date": "18-05-2024",
+    "Sum_Insured (USD)": "2,00,000",
+    "Available_Balance (USD)": "1,80,000"
+  },
+  {
+    "Emp_ID": 38076,
+    "User_Name": "Jennifer Miller",
+    "Insurance_Name": "Northwind Health Plus",
+    "Insurance_Status": "Lapsed",
+    "Insurance_End_Date": "",
+    "Sum_Insured (USD)": "5,50,000",
+    "Available_Balance (USD)": "0"
+  },
+  {
+    "Emp_ID": 34251,
+    "User_Name": "Patricia Wilson",
+    "Insurance_Name": "Northwind Health Plus",
+    "Insurance_Status": "Active",
+    "Insurance_End_Date": "27-09-2024",
+    "Sum_Insured (USD)": "6,00,000",
+    "Available_Balance (USD)": "5,40,000"
+  },
+  {
+    "Emp_ID": 33479,
+    "User_Name": "William Moore",
+    "Insurance_Name": "Northwind Standard",
+    "Insurance_Status": "Lapsed",
+    "Insurance_End_Date": "",
+    "Sum_Insured (USD)": "4,50,000",
+    "Available_Balance (USD)": "0"
+  },
+  {
+    "Emp_ID": 39583,
+    "User_Name": "Emily Taylor",
+    "Insurance_Name": "Northwind Health Plus",
+    "Insurance_Status": "Active",
+    "Insurance_End_Date": "19-12-2024",
+    "Sum_Insured (USD)": "8,00,000",
+    "Available_Balance (USD)": "7,20,000"
+  },
+  {
+    "Emp_ID": 36145,
+    "User_Name": "David Anderson",
+    "Insurance_Name": "Northwind Standard",
+    "Insurance_Status": "Active",
+    "Insurance_End_Date": "12-07-2024",
+    "Sum_Insured (USD)": "1,50,000",
+    "Available_Balance (USD)": "1,35,000"
+  },
+  {
+    "Emp_ID": 42299,
+    "User_Name": "Mary Thomas",
+    "Insurance_Name": "Northwind Standard",
+    "Insurance_Status": "Lapsed",
+    "Insurance_End_Date": "",
+    "Sum_Insured (USD)": "2,75,000",
+    "Available_Balance (USD)": "0"
+  },
+  {
+    "Emp_ID": 35888,
+    "User_Name": "Christopher Jackson",
+    "Insurance_Name": "Northwind Health Plus",
+    "Insurance_Status": "Active",
+    "Insurance_End_Date": "08-10-2024",
+    "Sum_Insured (USD)": "5,00,000",
+    "Available_Balance (USD)": "4,50,000"
+  },
+  {
+    "Emp_ID": 38613,
+    "User_Name": "Jessica White",
+    "Insurance_Name": "Northwind Health Plus",
+    "Insurance_Status": "Lapsed",
+    "Insurance_End_Date": "",
+    "Sum_Insured (USD)": "3,75,000",
+    "Available_Balance (USD)": "0"
+  },
+  {
+    "Emp_ID": 36370,
+    "User_Name": "Richard Harris",
+    "Insurance_Name": "Northwind Standard",
+    "Insurance_Status": "Active",
+    "Insurance_End_Date": "30-05-2024",
+    "Sum_Insured (USD)": "3,25,000",
+    "Available_Balance (USD)": "2,92,500"
+  },
+  {
+    "Emp_ID": 33338,
+    "User_Name": "Susan Martin",
+    "Insurance_Name": "Northwind Health Plus",
+    "Insurance_Status": "Active",
+    "Insurance_End_Date": "12-09-2024",
+    "Sum_Insured (USD)": "6,50,000",
+    "Available_Balance (USD)": "5,85,000"
+  },
+  {
+    "Emp_ID": 35048,
+    "User_Name": "Joseph Thompson",
+    "Insurance_Name": "Northwind Standard",
+    "Insurance_Status": "Lapsed",
+    "Insurance_End_Date": "",
+    "Sum_Insured (USD)": "1,75,000",
+    "Available_Balance (USD)": "0"
+  },
+  {
+    "Emp_ID": 37904,
+    "User_Name": "Margaret Garcia",
+    "Insurance_Name": "Northwind Health Plus",
+    "Insurance_Status": "Active",
+    "Insurance_End_Date": "25-10-2024",
+    "Sum_Insured (USD)": "4,25,000",
+    "Available_Balance (USD)": "3,82,500"
+  },
+  {
+    "Emp_ID": 34556,
+    "User_Name": "Charles Martinez",
+    "Insurance_Name": "Northwind Standard",
+    "Insurance_Status": "Lapsed",
+    "Insurance_End_Date": "",
+    "Sum_Insured (USD)": "2,25,000",
+    "Available_Balance (USD)": "0"
+  }
+]

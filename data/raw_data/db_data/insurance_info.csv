@@ -1,0 +1,21 @@
+Emp_ID,User_Name,Insurance_Name,Insurance_Status,Insurance_End_Date,Sum_Insured (USD),Available_Balance (USD)
+39592,John Doe,Northwind Health Plus,Active,21-08-2024,"5,00,000","4,50,000"
+38836,Jane Smith,Northwind Standard,Lapsed,,"2,50,000",0
+37815,Robert Johnson,Northwind Health Plus,Active,15-11-2024,"7,50,000","6,75,000"
+38433,Linda Williams,Northwind Standard,Lapsed,,"3,00,000",0
+42962,Michael Brown,Northwind Health Plus,Lapsed,,"4,00,000",0
+39976,Elizabeth Jones,Northwind Standard,Active,03-06-2024,"3,50,000","3,15,000"
+42439,James Davis,Northwind Standard,Active,18-05-2024,"2,00,000","1,80,000"
+38076,Jennifer Miller,Northwind Health Plus,Lapsed,,"5,50,000",0
+34251,Patricia Wilson,Northwind Health Plus,Active,27-09-2024,"6,00,000","5,40,000"
+33479,William Moore,Northwind Standard,Lapsed,,"4,50,000",0
+39583,Emily Taylor,Northwind Health Plus,Active,19-12-2024,"8,00,000","7,20,000"
+36145,David Anderson,Northwind Standard,Active,12-07-2024,"1,50,000","1,35,000"
+42299,Mary Thomas,Northwind Standard,Lapsed,,"2,75,000",0
+35888,Christopher Jackson,Northwind Health Plus,Active,08-10-2024,"5,00,000","4,50,000"
+38613,Jessica White,Northwind Health Plus,Lapsed,,"3,75,000",0
+36370,Richard Harris,Northwind Standard,Active,30-05-2024,"3,25,000","2,92,500"
+33338,Susan Martin,Northwind Health Plus,Active,12-09-2024,"6,50,000","5,85,000"
+35048,Joseph Thompson,Northwind Standard,Lapsed,,"1,75,000",0
+37904,Margaret Garcia,Northwind Health Plus,Active,25-10-2024,"4,25,000","3,82,500"
+34556,Charles Martinez,Northwind Standard,Lapsed,,"2,25,000",0
